@@ -5,7 +5,7 @@ Our intuitive website simplifies the path to homeownership. User can easily inpu
 
 # Tech Stack
 
-Frontend- React,Chakra UI, React Charts
-Backend- NodeJs, Express, MongoDB
+1. Frontend- React,Chakra UI, React Charts
+2. Backend- NodeJs, Express, MongoDB
 
 
